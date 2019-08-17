@@ -1,6 +1,6 @@
 /* gris oscuro = #1d252c:
 gris claro = #626262;
-background gris = #1b2127; 
+background gris = #1D252C; 
 celeste =  #026fff;
 */
 @font-face {
@@ -75,7 +75,7 @@ h2{
 .hero{
     height: 300px;
     /* background-image: url('../images/hero.jpg'); */
-    background-color: #1b2127; 
+    background-color: #1D252C; 
     /* background-size: 500px 300px;  tamaño del background */
     /* background-repeat: no-repeat; */
     /* background-position-x: right;  */
@@ -136,7 +136,7 @@ width: 50%;
     max-width: 100%;
     }
 .header{
-    background-color: #1b2127;
+    background-color: #1D252C;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -175,7 +175,7 @@ ol, ul{
 }
 footer{
     color: white;
-    background-color:  #1b2127;
+    background-color:  #1D252C;
     display: flex;
     align-items: center;
     justify-content: space-between;
